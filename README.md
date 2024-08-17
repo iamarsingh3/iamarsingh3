@@ -4,7 +4,7 @@
   
 - 👩‍💻 Data Analyst - Trust and Safety @Google
 
-- 👀 I’m interested in Data Analytics and Technical Writing.
+- 👀 I’m interested in Data Analytics.
   
 - 🎯 Passionate about converting data into insights and building frameworks for decision-making.
   
