@@ -15,9 +15,9 @@
 - ⚡ Fun fact: Everything is fun when you enjoy doing it. 
 
 ## 🛠 Skills
-SpreadSheet - Google Sheets, Ms Excel
-SQL - My SQL
-Bi tool - Google Data Studio, Tableau
+- SpreadSheet - Google Sheets, MS Excel
+- SQL - My SQL
+- Bi tool - Google Data Studio, Tableau
 <!---
 iamarsingh3/iamarsingh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
