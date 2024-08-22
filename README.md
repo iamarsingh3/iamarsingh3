@@ -1,4 +1,4 @@
-💫 About Me:
+![image](https://github.com/user-attachments/assets/5af47da1-6ffe-4271-b538-55606046e332)💫 About Me:
 
 - 👋 Hi, I’m Amar Singh (He/Him)
   
@@ -10,14 +10,16 @@
   
 - 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amarsingh1111/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amarsingh1111/) 
+
+- [Resume](https://drive.google.com/file/d/1ftIrmpxvydvU85MCPd-ABUWeYNRyuE2P/view?usp=sharing)
    
 - ⚡ Fun fact: Everything is fun when you enjoy doing it. 
 
 ## 🛠 Skills
 - Spreadsheet - Google Sheets, MS Excel
 - SQL - My SQL
-- Bi tool - Google Data Studio, Tableau
+- Bi tool - Google Data Studio, Tableau 
 
 - Here are Data Visualization which I developed on [Tableau](https://public.tableau.com/app/profile/amar.singh1017/vizzes) 
 <!---
