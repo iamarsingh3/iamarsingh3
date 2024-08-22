@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5af47da1-6ffe-4271-b538-55606046e332)💫 About Me:
+💫 About Me:
 
 - 👋 Hi, I’m Amar Singh (He/Him)
   
