@@ -12,7 +12,7 @@
   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amarsingh1111/) 
 
-- [Resume](https://drive.google.com/file/d/1ftIrmpxvydvU85MCPd-ABUWeYNRyuE2P/view?usp=sharing)
+- Here is my resume: [Resume](https://drive.google.com/file/d/1ftIrmpxvydvU85MCPd-ABUWeYNRyuE2P/view?usp=sharing)
    
 - ⚡ Fun fact: Everything is fun when you enjoy doing it. 
 
