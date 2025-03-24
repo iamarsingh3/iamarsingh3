@@ -10,9 +10,9 @@
   
 - 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amarsingh1111/) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amarsingh111/) 
 
-- Here is my resume: [Resume](https://drive.google.com/file/d/1ftIrmpxvydvU85MCPd-ABUWeYNRyuE2P/view?usp=sharing)
+- Here is my resume: [Resume](https://drive.google.com/file/d/1HFb8RV_2fzbdLGKQO1_sEWlREk6faPy9/view?usp=sharing)
 
 - Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/iamarsingh)
    
